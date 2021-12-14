@@ -171,7 +171,7 @@ let opts = {
       stroke: "red",
       scale: "%",
       value: (self, rawValue) => rawValue.toFixed(1) + "%",
-    }
+    },
     {
       label: "RAM",
       stroke: "blue",
